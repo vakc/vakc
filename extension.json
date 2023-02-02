@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "vakc",
+    "description": "Extensions for love",
+    "author": "kc",
+    "author_profile": "https://github.com/gtalarico",
+    "url": "https://github.com/vakc/vakc.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
