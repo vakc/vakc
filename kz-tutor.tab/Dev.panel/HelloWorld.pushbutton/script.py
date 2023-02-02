@@ -10,3 +10,5 @@ from Snippets._selection import get_selected_elements
 
 if __name__ == '__main__':
     print(get_selected_elements(uidoc))
+
+    print("Here is a change!")
